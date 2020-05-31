@@ -2,7 +2,7 @@
 
 ![](images/rastrigin.png)
 
-Python code for the function can be found [here](Shifted Rastrigin.ipynb)
+Python code for the function can be found [here](Shifted%20Rastrigin.ipynb)
 
 #### The chosen algorithm and a justification of this choice:
 1. Algorithm - SADE (Self-adaptive Differential Evolution) [for both 50 and 500 dimensions].
