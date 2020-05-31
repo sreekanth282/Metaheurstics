@@ -37,7 +37,7 @@ metaheuristic to approximate global optimization in a large search space.
 
 ##### The convergence curve (fitness as a function of time:
 1. Convergence curve for 50 dimensions:
-![](images/ackley50.png)
+![](images/ackley500.png)
 
 2. Convergence curve for 500 dimensions:
-![](images/ackley500.png)
+![](images/ackley50.png)
