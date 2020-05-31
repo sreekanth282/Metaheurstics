@@ -1,9 +1,9 @@
 
-# F1: Shifted Griewank’s Function 
+# Shifted Griewank’s Function 
 
 ![](images/griewank.png)
 
-Python code for the function can be found [here](Shifted Griewank.ipynb)
+Python code for the function can be found [here](Shifted%20Griewank.ipynb)
 
 #### The chosen algorithm and a justification of this choice:
 1. Algorithm - CMAES (covariance matrix adaptation evolution strategy) [for 50 dimensions].
