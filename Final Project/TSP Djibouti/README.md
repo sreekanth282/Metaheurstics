@@ -8,6 +8,7 @@ Python code for the function can be found [here](TSP%20Djibouti.ipynb)
 
 #### The parameters of the algorithm:
 1. Cities = 38
+2. Optimal Tour = 6656
                                          
 #### The final results, both solution and fitness:
 1. Solution = [28, 20, 9, 13, 11, 10, 8, 7, 6, 3, 0, 1, 15, 16, 23, 21, 19, 22, 24, 25, 36, 37, 32, 33,
