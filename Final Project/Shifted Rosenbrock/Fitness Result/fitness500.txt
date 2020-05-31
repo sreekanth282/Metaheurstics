@@ -1,0 +1,131 @@
+Problem name: <class '__main__.shifted_rosenbrock'>
+	C++ class name: class pybind11::object
+
+	Global dimension:			500
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-100, -100, -100, -100, -100, ... ]
+	Upper bounds: [100, 100, 100, 100, 100, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 750025
+
+	Thread safety: none
+
+Population size: 25
+
+List of individuals: 
+#0:
+	ID:			2534485592744993471
+	Decision vector:	[-75.4494, -35.7706, -57.6731, 38.7601, 51.9752, ... ]
+	Fitness vector:		[925.045]
+#1:
+	ID:			14396859227615284540
+	Decision vector:	[-75.4516, -35.774, -57.677, 38.7612, 51.9745, ... ]
+	Fitness vector:		[925.129]
+#2:
+	ID:			8166296226751954203
+	Decision vector:	[-75.4495, -35.775, -57.6749, 38.7589, 51.9658, ... ]
+	Fitness vector:		[925.023]
+#3:
+	ID:			10668115149154389399
+	Decision vector:	[-75.4489, -35.775, -57.6804, 38.7517, 51.9568, ... ]
+	Fitness vector:		[924.984]
+#4:
+	ID:			5753628981294168009
+	Decision vector:	[-75.4486, -35.7739, -57.67, 38.7633, 51.9709, ... ]
+	Fitness vector:		[925.026]
+#5:
+	ID:			17721429102103224744
+	Decision vector:	[-75.4494, -35.7733, -57.6684, 38.7642, 51.9685, ... ]
+	Fitness vector:		[924.909]
+#6:
+	ID:			10489621443621076161
+	Decision vector:	[-75.4485, -35.7735, -57.6768, 38.7578, 51.9646, ... ]
+	Fitness vector:		[925.001]
+#7:
+	ID:			17694018156988249773
+	Decision vector:	[-75.4514, -35.7753, -57.6733, 38.7669, 51.9837, ... ]
+	Fitness vector:		[925.01]
+#8:
+	ID:			5658770388987632559
+	Decision vector:	[-75.4486, -35.7714, -57.6682, 38.7678, 51.9812, ... ]
+	Fitness vector:		[925.053]
+#9:
+	ID:			3211760915410915174
+	Decision vector:	[-75.4505, -35.7707, -57.6709, 38.7692, 51.983, ... ]
+	Fitness vector:		[925.025]
+#10:
+	ID:			2971299780698376816
+	Decision vector:	[-75.4486, -35.77, -57.6719, 38.7676, 51.9776, ... ]
+	Fitness vector:		[925.063]
+#11:
+	ID:			17329701566780215250
+	Decision vector:	[-75.4525, -35.7811, -57.6842, 38.751, 51.9592, ... ]
+	Fitness vector:		[925.056]
+#12:
+	ID:			5442140201525233573
+	Decision vector:	[-75.4485, -35.7737, -57.6685, 38.7629, 51.9695, ... ]
+	Fitness vector:		[925.074]
+#13:
+	ID:			6410144964671283896
+	Decision vector:	[-75.4488, -35.7714, -57.6761, 38.7626, 51.9756, ... ]
+	Fitness vector:		[925.19]
+#14:
+	ID:			3529165690625136763
+	Decision vector:	[-75.4489, -35.7741, -57.6761, 38.7588, 51.9692, ... ]
+	Fitness vector:		[925.137]
+#15:
+	ID:			5899153985440978622
+	Decision vector:	[-75.4505, -35.7755, -57.6802, 38.7579, 51.9718, ... ]
+	Fitness vector:		[925.017]
+#16:
+	ID:			2054416958872927072
+	Decision vector:	[-75.4525, -35.7777, -57.6772, 38.7583, 51.9737, ... ]
+	Fitness vector:		[925.06]
+#17:
+	ID:			12072192656441660876
+	Decision vector:	[-75.4489, -35.773, -57.6765, 38.7563, 51.965, ... ]
+	Fitness vector:		[925.12]
+#18:
+	ID:			1486940515487304703
+	Decision vector:	[-75.4507, -35.7758, -57.6749, 38.7601, 51.9633, ... ]
+	Fitness vector:		[925.072]
+#19:
+	ID:			4325231408747929140
+	Decision vector:	[-75.4486, -35.7729, -57.6774, 38.7586, 51.9659, ... ]
+	Fitness vector:		[925.075]
+#20:
+	ID:			3287693747979752552
+	Decision vector:	[-75.4509, -35.7756, -57.6811, 38.7512, 51.97, ... ]
+	Fitness vector:		[925.058]
+#21:
+	ID:			9214584408668674962
+	Decision vector:	[-75.4499, -35.773, -57.6721, 38.7621, 51.9682, ... ]
+	Fitness vector:		[925.046]
+#22:
+	ID:			5102449893650935594
+	Decision vector:	[-75.4485, -35.773, -57.6765, 38.759, 51.9677, ... ]
+	Fitness vector:		[925.172]
+#23:
+	ID:			6905732039959390558
+	Decision vector:	[-75.4528, -35.7703, -57.6726, 38.7577, 51.9679, ... ]
+	Fitness vector:		[925.008]
+#24:
+	ID:			14419531902685194177
+	Decision vector:	[-75.4489, -35.7738, -57.672, 38.7562, 51.9643, ... ]
+	Fitness vector:		[925.152]
+
+Champion decision vector: [-75.4494, -35.7733, -57.6684, 38.7642, 51.9685, ... ]
+Champion fitness: [924.909]
+
+
+Computational time: 1869.76 seconds
