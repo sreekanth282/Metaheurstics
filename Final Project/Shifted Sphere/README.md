@@ -2,6 +2,8 @@
 
 ![](images/sphere.png)
 
+Python code for the function can be found [here](ShiftedSphere.ipynb)
+
 #### The chosen algorithm and a justification of this choice:
 1. Algorithm - PSO (particle swarm optimization) [for both 50 and 500 dimensions].
 2. Justification - The Sphere function has d local minima except for the global one. It is continuous, convex and unimodal.
@@ -19,9 +21,9 @@ Because my sphere function has only one global minima i am using pso to search a
                                          
 #### The final results, both solution and fitness:
 1. Champion fitness for 50 dimensions  : [-448.921]
-2. All results for the 50 dimensions can be found here [Fitness Results](Fitness%20Result/fitness50.txt)
+2. All results for the 50 dimensions can be found [here](Fitness%20Result/fitness50.txt)
 3. Champion fitness for 500 dimensiosn : [-449.642]
-4. All results for the 500 dimensions can be found here [Fitness Results](Fitness%20Result/fitness500.txt)
+4. All results for the 500 dimensions can be found [here](Fitness%20Result/fitness500.txt)
 
 ##### The number of function evaluations: 
 1. No of evaluations for 50 dimensions = 150050
