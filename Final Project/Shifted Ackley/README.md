@@ -1,5 +1,5 @@
 
-# F1: Shifted Ackley's Function 
+# Shifted Ackley's Function 
 
 ![](images/ackley.png)
 
