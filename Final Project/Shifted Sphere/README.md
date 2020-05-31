@@ -1,4 +1,4 @@
-# F1: Shifted Sphere Function 
+# Shifted Sphere Function 
 
 ![](images/sphere.png)
 
