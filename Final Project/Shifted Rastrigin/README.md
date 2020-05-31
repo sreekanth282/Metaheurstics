@@ -1,4 +1,4 @@
-# F1: Shifted Rastrigin’s Function
+# Shifted Rastrigin’s Function
 
 ![](images/rastrigin.png)
 
