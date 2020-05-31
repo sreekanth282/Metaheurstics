@@ -1,5 +1,5 @@
 
-# F1: Shifted Rosenbrock’s Function 
+# Shifted Rosenbrock’s Function 
 
 ![](images/rosenbrok.png)
 
