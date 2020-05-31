@@ -1,0 +1,35 @@
+Problem name: <class '__main__.schwefel_problem'>
+	C++ class name: class pybind11::object
+
+	Global dimension:			500
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-100, -100, -100, -100, -100, ... ]
+	Upper bounds: [100, 100, 100, 100, 100, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 4687501
+
+	Thread safety: none
+
+Population size: 1
+
+List of individuals: 
+#0:
+	ID:			11462142774049053112
+	Decision vector:	[-26.8854, -4.91315, -56.8242, -95.0385, -4.34025, ... ]
+	Fitness vector:		[-449.994]
+
+Champion decision vector: [-26.8854, -4.91315, -56.8242, -95.0385, -4.34025, ... ]
+Champion fitness: [-449.994]
+
+
+Computational time: 405.88 seconds
