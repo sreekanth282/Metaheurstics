@@ -1,5 +1,5 @@
 
-# F2: Schwefel’s Problem 
+# Schwefel’s Problem 
 
 ![](images/schwefel.png)
 
