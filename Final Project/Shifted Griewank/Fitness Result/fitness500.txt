@@ -1,0 +1,131 @@
+Problem name: <class '__main__.shifted_griewank'>
+	C++ class name: class pybind11::object
+
+	Global dimension:			500
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-600, -600, -600, -600, -600, ... ]
+	Upper bounds: [600, 600, 600, 600, 600, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 150025
+
+	Thread safety: none
+
+Population size: 25
+
+List of individuals: 
+#0:
+	ID:			1502407971661124263
+	Decision vector:	[523.91, -319.883, 126.576, -16.6801, 470.813, ... ]
+	Fitness vector:		[-177.691]
+#1:
+	ID:			16387123147759915083
+	Decision vector:	[523.909, -319.879, 126.586, -16.9049, 470.801, ... ]
+	Fitness vector:		[-177.691]
+#2:
+	ID:			8028909618638794821
+	Decision vector:	[523.908, -319.876, 126.589, -16.5925, 470.814, ... ]
+	Fitness vector:		[-177.689]
+#3:
+	ID:			5146731096611887426
+	Decision vector:	[523.911, -319.875, 126.592, -17.2464, 470.806, ... ]
+	Fitness vector:		[-177.69]
+#4:
+	ID:			7645179881442379849
+	Decision vector:	[523.908, -319.872, 126.617, -16.7788, 470.807, ... ]
+	Fitness vector:		[-177.69]
+#5:
+	ID:			14867777167793119895
+	Decision vector:	[523.907, -319.891, 126.603, -16.7624, 470.813, ... ]
+	Fitness vector:		[-177.691]
+#6:
+	ID:			6504581643788216302
+	Decision vector:	[523.908, -319.888, 126.588, -16.7113, 470.819, ... ]
+	Fitness vector:		[-177.692]
+#7:
+	ID:			12471116174683169749
+	Decision vector:	[523.904, -319.883, 126.589, -16.7222, 470.806, ... ]
+	Fitness vector:		[-177.691]
+#8:
+	ID:			3659601875064581931
+	Decision vector:	[523.906, -319.886, 126.595, -17.2633, 470.83, ... ]
+	Fitness vector:		[-177.69]
+#9:
+	ID:			4225065715400789163
+	Decision vector:	[523.906, -319.897, 126.579, -15.7481, 470.808, ... ]
+	Fitness vector:		[-177.692]
+#10:
+	ID:			14983616598490402444
+	Decision vector:	[523.905, -319.892, 126.574, -16.0847, 470.867, ... ]
+	Fitness vector:		[-177.69]
+#11:
+	ID:			8701091236551156446
+	Decision vector:	[523.906, -319.897, 126.574, -16.2679, 470.799, ... ]
+	Fitness vector:		[-177.689]
+#12:
+	ID:			14794971595084417281
+	Decision vector:	[523.908, -319.896, 126.568, -15.9303, 470.866, ... ]
+	Fitness vector:		[-177.689]
+#13:
+	ID:			11982920460374278578
+	Decision vector:	[523.908, -319.898, 126.564, -16.4305, 470.796, ... ]
+	Fitness vector:		[-177.689]
+#14:
+	ID:			2326279390205538666
+	Decision vector:	[523.909, -319.898, 126.569, -16.1493, 470.849, ... ]
+	Fitness vector:		[-177.691]
+#15:
+	ID:			18391407663580959748
+	Decision vector:	[523.909, -319.898, 126.569, -16.1801, 470.884, ... ]
+	Fitness vector:		[-177.689]
+#16:
+	ID:			7338169642728263541
+	Decision vector:	[523.912, -319.897, 126.565, -16.6538, 470.823, ... ]
+	Fitness vector:		[-177.689]
+#17:
+	ID:			4591026457622556710
+	Decision vector:	[523.912, -319.896, 126.569, -16.4386, 470.893, ... ]
+	Fitness vector:		[-177.691]
+#18:
+	ID:			5004538748255131275
+	Decision vector:	[523.911, -319.891, 126.57, -16.8184, 470.847, ... ]
+	Fitness vector:		[-177.691]
+#19:
+	ID:			14741141874246353340
+	Decision vector:	[523.911, -319.896, 126.575, -16.2405, 470.919, ... ]
+	Fitness vector:		[-177.69]
+#20:
+	ID:			6947730914348531468
+	Decision vector:	[523.91, -319.887, 126.577, -16.5966, 470.871, ... ]
+	Fitness vector:		[-177.69]
+#21:
+	ID:			18318408283619239309
+	Decision vector:	[523.91, -319.887, 126.579, -16.2915, 470.803, ... ]
+	Fitness vector:		[-177.691]
+#22:
+	ID:			4230034682529317652
+	Decision vector:	[523.909, -319.885, 126.579, -16.4109, 470.819, ... ]
+	Fitness vector:		[-177.691]
+#23:
+	ID:			1814112736984430674
+	Decision vector:	[523.91, -319.881, 126.605, -16.2442, 470.822, ... ]
+	Fitness vector:		[-177.691]
+#24:
+	ID:			3148488471043316252
+	Decision vector:	[523.909, -319.888, 126.592, -16.4837, 470.807, ... ]
+	Fitness vector:		[-177.692]
+
+Champion decision vector: [523.909, -319.888, 126.592, -16.4837, 470.807, ... ]
+Champion fitness: [-177.692]
+
+
+Computational time: 37.03 seconds
