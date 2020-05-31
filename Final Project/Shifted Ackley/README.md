@@ -18,8 +18,8 @@ metaheuristic to approximate global optimization in a large search space.
 #### The parameters of the algorithm:
 1. f_bias = -140.0
 2. inbound, outbound = -32,32
-3. pso params for dimension 50 = (gen = 5000,  omega=0.7, eta1=4, eta2=.5)
-4. pso params for dimesnion 500 = (Ts=1, Tf=1e-12, n_T_adj=15, n_range_adj=5, bin_size=5, start_range=1)
+3. PSO params for dimension 50 = (gen = 5000,  omega=0.7, eta1=4, eta2=.5)
+4. SA params for dimesnion 500 = (Ts=1, Tf=1e-12, n_T_adj=15, n_range_adj=5, bin_size=5, start_range=1)
                                          
 #### The final results, both solution and fitness:
 1. Champion fitness for 50 dimensions  : [-126.914]
