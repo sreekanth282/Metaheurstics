@@ -1,0 +1,131 @@
+Problem name: <class '__main__.shifted_rastrigin'>
+	C++ class name: class pybind11::object
+
+	Global dimension:			50
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-5, -5, -5, -5, -5, ... ]
+	Upper bounds: [5, 5, 5, 5, 5, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 54125
+
+	Thread safety: none
+
+Population size: 25
+
+List of individuals: 
+#0:
+	ID:			7856624550021124525
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#1:
+	ID:			5244123746189477340
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#2:
+	ID:			533595398737749679
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#3:
+	ID:			12754092726034836640
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#4:
+	ID:			5203757046611198818
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#5:
+	ID:			2734479451771333020
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#6:
+	ID:			2820674532724922293
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#7:
+	ID:			7133776631802244639
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#8:
+	ID:			9263825480374239065
+	Decision vector:	[3.8466, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#9:
+	ID:			17101377560196914835
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#10:
+	ID:			6959107774092688530
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#11:
+	ID:			2592976656585742908
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#12:
+	ID:			9558593908862961108
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#13:
+	ID:			7640371037427036884
+	Decision vector:	[3.8466, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#14:
+	ID:			1490465926392708139
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646539, 4.3382, ... ]
+	Fitness vector:		[-330]
+#15:
+	ID:			3395285655255389153
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646539, 4.3382, ... ]
+	Fitness vector:		[-330]
+#16:
+	ID:			2514593786331733054
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646539, 4.3382, ... ]
+	Fitness vector:		[-330]
+#17:
+	ID:			15327861534783979975
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#18:
+	ID:			187547744818863335
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646539, 4.3382, ... ]
+	Fitness vector:		[-330]
+#19:
+	ID:			1733282690087336700
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#20:
+	ID:			14817521511840270810
+	Decision vector:	[3.8466, 4.32362, -2.82163, 0.646539, 4.3382, ... ]
+	Fitness vector:		[-330]
+#21:
+	ID:			16764639717300280201
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#22:
+	ID:			15517320299626899316
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#23:
+	ID:			8672753533239433478
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+#24:
+	ID:			13285843533433014928
+	Decision vector:	[3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+	Fitness vector:		[-330]
+
+Champion decision vector: [3.84659, 4.32362, -2.82163, 0.646538, 4.3382, ... ]
+Champion fitness: [-330]
+
+
+Computational time: 2.82 seconds
